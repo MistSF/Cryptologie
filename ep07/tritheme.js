@@ -23,4 +23,5 @@ tritheme = (data) => {
     }
     valret += String.fromCharCode(char);
   }
+  return valret;
 }
